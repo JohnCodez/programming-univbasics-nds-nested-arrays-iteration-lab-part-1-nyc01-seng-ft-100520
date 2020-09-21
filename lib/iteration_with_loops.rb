@@ -9,6 +9,9 @@ while oc < src.length do
   while ic < src[oc].length
     if src[oc][ic] % 2
       result << src[oc][ic]
+    end
+    ic += 1
 end
+oc += 1
 end
 end
