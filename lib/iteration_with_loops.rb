@@ -14,4 +14,5 @@ while oc < src.length do
 end
 oc += 1
 end
+puts result
 end
